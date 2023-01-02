@@ -3,4 +3,7 @@ def first():
 
 if __name__=="__main__":
   first()
+  a=2
+  b=3
+  sum=a+b
   
